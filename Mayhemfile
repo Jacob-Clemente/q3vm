@@ -1,5 +1,5 @@
-project: jacob-clemente/Leanify
-target: leanify
+project: jacob-clemente/q3vm
+target: q3vm
 
 cmds:
-  - cmd: /leanify @@
+  - cmd: /q3vm @@
