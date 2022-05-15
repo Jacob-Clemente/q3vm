@@ -1,4 +1,4 @@
-project: jacob-clemente/q3vm
+project: q3vm
 target: q3vm
 
 cmds:
